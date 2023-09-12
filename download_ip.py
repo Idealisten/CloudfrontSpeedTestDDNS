@@ -1,9 +1,4 @@
-import requests
-import zipfile
-import io
 import os
-import re
-import git
 
 '''
 # 获取当前脚本所在的目录
